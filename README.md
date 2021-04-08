@@ -1,1 +1,1 @@
-# OOPbookp
+# OOP based book registration project
